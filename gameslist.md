@@ -7,6 +7,7 @@
 | God Eater 3 | v1 (1.4.0) |   |
 | Kirby Star Allies | v5 (4.0.0)  |   |
 | Mages of Mystralia | v1 (1.0.1)  |   |
+| Mutant Year Zero | v2.0.22675)  |   |
 | Octopath Traveler | v0, v2-v3 (1.0.0, 1.0.2-1.0.3) |   |
 | Super Mario Maker 2 | v1 (1.0.1)  |   |
 | Team Sonic Racing | v2 (1.0.3)  |   |
